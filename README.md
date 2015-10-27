@@ -5,7 +5,7 @@ A Matlab GUI for simulating five types of diffraction propagation:
 
 * Fourier transform
 * Fresnel transfer function
-* Fresnel impulse function
+* Fresnel impulse response
 * Fraunhofer diffraction
 * Angular spectrum
 
@@ -32,6 +32,12 @@ Based on the Rayleigh-Sommerfield diffraction solution:
 
 ![Alt Text](DiffractionPropagationSimulation/propagation_simulation_assets/propagation_routine.png)
 
+and uses the transfer function *H* given by:
+
+
+### Fresnel impulse response
+
+Again, based on the Rayleigh-Sommerfield diffraction solution
 
 ## 3rd Party licenses
 
