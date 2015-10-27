@@ -30,7 +30,7 @@ Performs the standard two dimensional [Fourier Transform](https://en.wikipedia.o
 
 Based on the Rayleigh-Sommerfield diffraction solution:
 
-![Alt Text](https://www.samuelmcdermott.com/propagation_simulation_assets/propagation_routine.jpg)
+![Alt Text](https://www.samuelmcdermott.com/propagation_simulation_assets/propagation_routine.png)
 
 
 ## 3rd Party licenses
