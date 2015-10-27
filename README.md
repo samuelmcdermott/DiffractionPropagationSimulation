@@ -24,13 +24,13 @@ A Matlab GUI for simulating five types of diffraction propagation:
 ## The diffraction schemes
 ### Fourier transform
 
-Performs the standard two dimensional (Fourier Transform)[https://en.wikipedia.org/wiki/Fourier_transform#Fourier_transform_on_Euclidean_space] function.
+Performs the standard two dimensional [Fourier Transform](https://en.wikipedia.org/wiki/Fourier_transform#Fourier_transform_on_Euclidean_space) function.
 
 ### Fresnel transfer function
 
 Based on the Rayleigh-Sommerfield diffraction solution:
 
-![Alt Text](http://bit.ly/208DXX0)
+![Alt Text](https://www.samuelmcdermott.com/propagation_simulation_assets/propagation_routine.jpg)
 
 
 ## 3rd Party licenses
